@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.javabasics/collectionframework/collectionframework.iml" filepath="$PROJECT_DIR$/com.javabasics/collectionframework/collectionframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.javabasics/com.javabasics.iml" filepath="$PROJECT_DIR$/com.javabasics/com.javabasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.javabasics/controlflow/controlflow.iml" filepath="$PROJECT_DIR$/com.javabasics/controlflow/controlflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.javabasics/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/com.javabasics/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_basics.iml" filepath="$PROJECT_DIR$/.idea/java_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.javabasics/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/com.javabasics/multithreading/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.javabasics/oops/oops.iml" filepath="$PROJECT_DIR$/com.javabasics/oops/oops.iml" />
+    </modules>
+  </component>
+</project>
